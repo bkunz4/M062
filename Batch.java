@@ -78,7 +78,7 @@ public static void main(String[] args) {
   } catch (
   Exception e) {
     
-    // Handle errors for Class.forName
+    // handles errors for Class.forName
     e.printStackTrace();
   }
   
